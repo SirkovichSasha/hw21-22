@@ -1,7 +1,6 @@
 package ru.netology.hiearchy
 
-fun main()
-{
+fun main() {
     val text = TextView("Some Text")
     text.click() // вызывается метод из `View`
     println(text.text) // Some Text

@@ -1,4 +1,4 @@
 package ru.netology.hiearchy
 
-class Button(var text:String):View() {
+class Button(var text: String) : View() {
 }
